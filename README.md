@@ -1,19 +1,19 @@
-# 📊 Análisis de Rentabilidad y Descuentos
+# Análisis de Rentabilidad y Descuentos
 
-## 🎯 Objetivo del Proyecto
+##  Objetivo del Proyecto
 El objetivo principal de este proyecto fue analizar el impacto de los descuentos sobre los márgenes de ganancia en una tienda retail sobre un Data Set de +7500 filas.
 
----
+-
 
-## 🛠️ Stack Tecnológico
+##  Herramientas Utilizadas
 * **MySQL:** Procesamiento, limpieza, agregación y segmentación de datos mediante consultas condicionales (`CASE WHEN`, `GROUP BY`, `HAVING`).
 * **Excel:** Validación de datos, control de calidad financiero y formato condicional.
 * **PowerPoint:** Diseño del layout visual (UI/UX) y fondo estructurado del tablero.
 * **Power BI:** Modelado de datos, creación de medidas DAX y desarrollo de visualizaciones e interactividad.
 
----
+-
 
-## 🔍 Hallazgos Clave (Insights de Negocio)
+## Concluciones
 
 1. **El Umbral Crítico del Descuento:** Los descuentos que superan el **20%** reducen la rentabilidad del negocio, llegando a márgenes netos negativos.
    
