@@ -1,7 +1,7 @@
 # Análisis de Rentabilidad y Descuentos
 
 ##  Objetivo del Proyecto:
-El objetivo principal de este proyecto fue analizar el impacto de los descuentos sobre los márgenes de ganancia en una tienda retail sobre un Data Set de +7500 filas.
+El objetivo principal de este proyecto fue analizar el impacto de los descuentos sobre los márgenes de ganancia en una tienda retail sobre un Data Set de +7500 filas. Y Luego armar un dashboard interactivo en el que poder analizar también el impacto sobre diferentes regiones y periodos temporales.
 
 ---
 
@@ -19,5 +19,6 @@ El objetivo principal de este proyecto fue analizar el impacto de los descuentos
    
 2. **Análisis por Categoría:** Si bien los descuentos mayores al **20%** muestran sistemáticamente una perdida de dinero, cada categoría responde diferente, siendo **Office Supplies** la más afectada.
 
-3. **Subcategorías en Pérdida ("Zona Roja"):** Se analizó también las subcategorías que generaron perdidas y se vio que debido a los descuentos, Appliances pierde mas del doble de lo que factura 
+3. **Subcategorías en Pérdida ("Zona Roja"):** Se analizó también las subcategorías que generaron perdidas y se vio que debido a los descuentos, Appliances pierde mas del doble de lo que factura
+
 
