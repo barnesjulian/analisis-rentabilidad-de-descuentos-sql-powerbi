@@ -3,7 +3,7 @@
 ##  Objetivo del Proyecto
 El objetivo principal de este proyecto fue analizar el impacto de los descuentos sobre los márgenes de ganancia en una tienda retail sobre un Data Set de +7500 filas.
 
--
+---
 
 ##  Herramientas Utilizadas
 * **MySQL:** Procesamiento, limpieza, agregación y segmentación de datos mediante consultas condicionales (`CASE WHEN`, `GROUP BY`, `HAVING`).
@@ -11,7 +11,7 @@ El objetivo principal de este proyecto fue analizar el impacto de los descuentos
 * **PowerPoint:** Diseño del layout visual (UI/UX) y fondo estructurado del tablero.
 * **Power BI:** Modelado de datos, creación de medidas DAX y desarrollo de visualizaciones e interactividad.
 
--
+---
 
 ## Concluciones
 
