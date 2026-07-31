@@ -1,6 +1,6 @@
 # Análisis de Rentabilidad y Descuentos
 
-##  Objetivo del Proyecto
+##  Objetivo del Proyecto:
 El objetivo principal de este proyecto fue analizar el impacto de los descuentos sobre los márgenes de ganancia en una tienda retail sobre un Data Set de +7500 filas.
 
 ---
@@ -13,7 +13,7 @@ El objetivo principal de este proyecto fue analizar el impacto de los descuentos
 
 ---
 
-## Concluciones
+## Concluciones:
 
 1. **El Umbral Crítico del Descuento:** Los descuentos que superan el **20%** reducen la rentabilidad del negocio, llegando a márgenes netos negativos.
    
